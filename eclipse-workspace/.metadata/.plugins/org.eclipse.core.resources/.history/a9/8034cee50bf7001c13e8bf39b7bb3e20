@@ -1,0 +1,5 @@
+package over_ride;
+
+public @interface override {
+
+}
